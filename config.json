@@ -1,0 +1,9 @@
+{
+	"ip":"slugyyy.aternos.me",
+	"port": 18584,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register ultraprouser321123 ultraprouser321123",
+	"login-cmd":"/login ultraprouser321123"
+}
